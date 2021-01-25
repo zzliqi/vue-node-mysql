@@ -1,4 +1,4 @@
-# manage-system #
+# vue-node-mysql #
 基于Vue.js 2.x系列 + Element UI + Node.js + Mysql的后台管理系统解决方案。
 
 ## 准备工作 ##
